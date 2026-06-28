@@ -106,6 +106,3 @@ pdflatex turing_ml_report.tex   # deuxième passe pour la table des matières
 
 MIT — voir [LICENSE](LICENSE).
 
-## Auteur
-
-**Modeste Savadogo** — 1ère année, Filière Ingénierie des Données & Intelligence Artificielle, INPT Rabat.
